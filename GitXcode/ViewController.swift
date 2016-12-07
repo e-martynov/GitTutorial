@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("Hello World!")
         let mapViewController = MapViewController()
         print(mapViewController)
+        print("Another message")
         
     }
 
